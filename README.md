@@ -6,14 +6,21 @@
 
 ## Topics Covered
 
-### Smart Wallet
+### 01 Smart Wallet
 
-| Type                       | Time Complexity                        |
-| -------------------------- | -------------------------------------- |
-| 01_mappings                | Mappings: A Wallet Example             |
-| 02_struct                  | Structs vs. Child Contracts            |
-| 03_structsAndMapping       | Structs And Mappings                   |
-| 04_exceptions              | Exceptions                             |
-| 05_assert                  | Assert                                 |
-| 05_tryCatch                | Try Catch                              |
-| 06_theSmartContractProject | The Smart Contract Wallet Implemention |
+| FileName                   | Topics Discussed                         |
+| -------------------------- | ---------------------------------------- |
+| 01_mappings                | Mappings: A Wallet Example               |
+| 02_struct                  | Structs vs. Child Contracts              |
+| 03_structsAndMapping       | Structs And Mappings                     |
+| 04_exceptions              | Exceptions                               |
+| 05_assert                  | Assert                                   |
+| 05_tryCatch                | Try Catch                                |
+| 06_theSmartContractProject | The Smart Contract Wallet Implementation |
+
+### 02 ERC-20 Token Sale
+
+| FileName                   | Topics Discussed          |
+| -------------------------- | ------------------------- |
+| 01_Ownable                 | Modifiers And Inheritance |
+| 02_modifiersAndInheritance | Modifiers And Inheritance |
